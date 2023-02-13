@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:html';
 import 'package:clicker2/model/game_result.dart';
 import 'package:flutter/material.dart';
-import "package:http/http.dart" as http;
+//import "package:http/http.dart" as http;
 
 void main() {
   runApp(Home());
